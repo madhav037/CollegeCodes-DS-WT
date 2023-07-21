@@ -4,51 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b87ed1b3-b059-408b-b19e-4f2d583ec653" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab6_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab6_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab6_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab6_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab6_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab6_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab6_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab7_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab7_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab7_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab8_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab8_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab9_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab9_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab9_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Rough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/attendence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/extra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/viva/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/viva/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/viva/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/viva/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/viva/.idea/viva.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/viva/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/viva/out/production/viva/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/viva/out/production/viva/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/viva/out/production/viva/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/viva/out/production/viva/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/viva/out/production/viva/.idea/viva.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sem 2/viva/out/production/viva/main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DS/lab 1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DS/lab 1/.idea/lab 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DS/lab 1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DS/lab 1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DS/lab 1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Cricket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Cricket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab4_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab4_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab4_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab4_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab4_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab4_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab5_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab5_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab5_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem 2/JAVA Lab/Lab5_3.java" afterDir="false" />
-    </list>
+    <list default="true" id="b87ed1b3-b059-408b-b19e-4f2d583ec653" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,6 +66,7 @@
       <workItem from="1689662526984" duration="4000" />
       <workItem from="1689826471511" duration="4419000" />
       <workItem from="1689913400691" duration="4687000" />
+      <workItem from="1689947475073" duration="506000" />
     </task>
     <servers />
   </component>
